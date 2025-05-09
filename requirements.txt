@@ -1,0 +1,6 @@
+numpy
+pandas
+sentence-transformers
+ir_datasets
+ir-measures
+torch
